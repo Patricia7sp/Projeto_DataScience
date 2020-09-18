@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:E. South America Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=BRUNA PEREIRA BRANDAO:mailto:BRUNABRANDAO@natura.net
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=patricia7v
+ ga@yahoo.com.br:mailto:patricia7vga@yahoo.com.br
+DESCRIPTION;LANGUAGE=pt-BR:\n______________________________________________
+ __________________________________\nIngressar em Reunião do Microsoft Tea
+ ms<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODA4ZWVkYWYtMWZl
+ My00NmZiLWExNmMtMGY2ODg0NzRiNjk0%40thread.v2/0?context=%7b%22Tid%22%3a%22b
+ 9203540-bfb1-47a2-9e2b-d73ec0debf49%22%2c%22Oid%22%3a%2278ce7d32-9895-4ed4
+ -87d7-208fd39acd3e%22%7d>\n+55 11 3181-5706<tel:+55%2011%203181-5706\,\,94
+ 7640062#>   Brazil\, São Paulo (Chamada tarifada)\nID de Conferência: 94
+ 7 640 062#\nNúmeros locais<https://dialin.teams.microsoft.com/4271f29e-a4
+ 22-479c-828d-6c5466b2bd09?id=947640062> | Redefinir PIN<https://mysettings
+ .lync.com/pstnconferencing> | Saiba mais sobre o Teams<https://aka.ms/Join
+ TeamsMeeting> | Opções de reunião<https://teams.microsoft.com/meetingOp
+ tions/?organizerId=78ce7d32-9895-4ed4-87d7-208fd39acd3e&tenantId=b9203540-
+ bfb1-47a2-9e2b-d73ec0debf49&threadId=19_meeting_ODA4ZWVkYWYtMWZlMy00NmZiLW
+ ExNmMtMGY2ODg0NzRiNjk0@thread.v2&messageId=0&language=pt-BR>\n____________
+ ____________________________________________________________________\n\nAs
+  informações contidas nesta mensagem são CONFIDENCIAIS e protegidas pel
+ o sigilo legal a divulgação\, distribuição ou reprodução do teor des
+ te documento depende de autorização do emissor. Caso V. Sa. não seja o 
+ destinatário\, preposto\, ou a pessoa responsável pela entrega desta men
+ sagem\,fica\, desde já\, notificado que qualquer divulgação\, distribui
+ ção ou reprodução é estritamente proibida\, sujeitando-se o infrator 
+ às sanções legais. Caso esta comunicação tenha sido recebida por enga
+ no\, favor nos avisar imediatamente\, respondendo esta mensagem. Las infor
+ maciones que contiene este mensaje son CONFIDENCIALES. Si el lector de est
+ a transmisión no es el destinatario o el agente responsable de la entrega
+ \, se notifica que usted ha recibido esta comunicación por error\, y que 
+ cualquier divulgación\, distribución\, retención o copia de esta comuni
+ cación está estrictamente prohibida. En este caso\, por favor\, responda
+  este mensaje inmediatamente al remitente. The information contained in th
+ is message is CONFIDENTIAL. If the reader of this transmittal is not the i
+ ntended recipient or an agent responsible for delivering it\, you are here
+ by notified that you have received this communication in error\, and that 
+ any dissemination\,distribution\, retention or copy of this communication 
+ is strictly prohibited. In this case\, please immediately reply this messa
+ ge to the sender.\n
+UID:040000008200E00074C5B7101A82E00800000000D0D317ED8A8AD601000000000000000
+ 010000000388749CB744736458D4BE61A3DCF5439
+SUMMARY;LANGUAGE=pt-BR:GSP | onboarding
+DTSTART;TZID=E. South America Standard Time:20200914T150000
+DTEND;TZID=E. South America Standard Time:20200914T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20200914T143416Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=pt-BR:Reunião do Microsoft Teams
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2060359652
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ODA4ZWVkYWYtMWZlMy00NmZiLWExNmMtMGY2ODg0NzRiNjk0%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22b9203540-bfb1-47a2-9e2b-d73ec0debf49%22%2c%22O
+ id%22%3a%2278ce7d32-9895-4ed4-87d7-208fd39acd3e%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://scheduler.teams.microsoft.co
+ m/teams/b9203540-bfb1-47a2-9e2b-d73ec0debf49/78ce7d32-9895-4ed4-87d7-208fd
+ 39acd3e/19_meeting_ODA4ZWVkYWYtMWZlMy00NmZiLWExNmMtMGY2ODg0NzRiNjk0@thread
+ .v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_ODA4ZWVkYWYtMWZlMy00NmZ
+ iLWExNmMtMGY2ODg0NzRiNjk0@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:BRUNABRANDAO@natura.net\;gruu\;o
+ paque=app:conf:focus:id:teams:2:0!19:meeting_ODA4ZWVkYWYtMWZlMy00NmZiLWExN
+ mMtMGY2ODg0NzRiNjk0-thread.v2!78ce7d3298954ed487d7208fd39acd3e!b9203540bfb
+ 147a29e2bd73ec0debf49
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Reunião do Microsoft Teams"\,"Locat
+ ionAnnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":"
+ "\,"LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"Loc
+ ationFullAddress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
